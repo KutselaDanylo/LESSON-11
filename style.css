@@ -1,0 +1,16 @@
+.p-class{
+    background-color: green;
+    border-color: black;
+    border: 350px 220px;
+    border: dotted;
+    padding: 15px 10px 10px 20px;
+    margin-bottom: 30px
+}
+.class-p{
+    background-color: green;
+    border-color: black;
+    border: 350px 220px;
+    border: dotted;
+    padding: 15px 10px 10px 20px;
+    margin-bottom: 30px
+}
